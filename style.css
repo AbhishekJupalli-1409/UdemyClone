@@ -38,7 +38,7 @@
 
 
   #Search-box {
-    width: 30rem;
+    width: 38%;
     height: 2.8rem;
 
     display: inline-block;
@@ -56,3 +56,32 @@
     outline: none;
     
   }
+
+  #prices{
+    position: relative;
+    left: 40%;
+   
+    outline: none;
+    border: none;
+  }
+
+  .btn{
+    border: none !important;
+
+  }
+
+  #Business{
+  position: relative;
+  left: 40%;
+  
+  outline: none;
+  border: none;
+}
+#Teach{
+  position: relative;
+  left: 40%;
+  
+  outline: none;
+  border: none;
+}
+
