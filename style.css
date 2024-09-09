@@ -1,0 +1,46 @@
+  /* Custom CSS for hover dropdown */
+  
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24;
+  border: none;
+  background-color: white;
+  height: 2rem;
+}
+#searchsomething{
+    
+    width: 4rem;
+    height: 3rem;
+    border-color: black;
+}
+
+#buttonSearch{
+    position: relative;
+    top: 0.5rem;
+    right: 3.5rem;
+}
+
+
+  #noBgcolor{
+    background-color: none !important;
+  }
+
+  #Searchbox{
+    border: black 2px !important;
+  }
+  .dropdown-menu {
+    display: none;
+   
+    position: absolute;
+    top: 2rem;
+    left: 0.9rem;
+   
+}
+  .dropdown:hover .dropdown-menu {
+    display: block;
+    margin: 0;
+}
