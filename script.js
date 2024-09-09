@@ -1,3 +1,14 @@
+const input = document.getElementById('Search-box-input');
+
+// Add event listener for when the user starts typing
+input.addEventListener('input', function() {
+    input.classList.add('no-border'); // Hide the border while typing
+});
+
+
+
+
+
 document.addEventListener('DOMContentLoaded', () => {
     const triggerElement = document.querySelector('.trigger-element');
     const otherElements = document.querySelectorAll('.other-element');
