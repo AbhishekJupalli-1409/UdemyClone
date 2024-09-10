@@ -38,13 +38,13 @@
 
 
   #Search-box {
-    width: 38%;
+    width: 36%;
     height: 2.8rem;
 
     display: inline-block;
     position: absolute;
     top: 0.5rem;
-    cursor:default;
+    cursor: default;
   }
 
   #Search-box-input {
@@ -52,36 +52,43 @@
     left: 2.4rem;
     top: 0.2rem;
     height: 2rem;
-    width: 91%;
+    width: 90%;
     outline: none;
-    
+
   }
 
-  #prices{
+  #prices {
     position: relative;
-    left: 40%;
-   
+    left: 37%;
+
     outline: none;
     border: none;
   }
 
-  .btn{
-    border: none !important;
 
+
+  #Business {
+    position: relative;
+    left: 37%;
+
+    outline: none;
+    border: none;
   }
 
-  #Business{
-  position: relative;
-  left: 40%;
-  
-  outline: none;
-  border: none;
-}
-#Teach{
-  position: relative;
-  left: 40%;
-  
-  outline: none;
-  border: none;
-}
+  #Teach {
+    position: relative;
+    left: 37%;
 
+    outline: none;
+    border: none;
+  }
+
+  #Login {
+    position: relative;
+    left: 38%;
+    border-color: black !important;
+    border-width: 2px !important;
+    border-radius: 0px !important;
+
+
+  }
