@@ -1,5 +1,9 @@
   /* Custom CSS for hover dropdown */
-
+  body {
+    height: 100%;
+    overflow-y: auto;
+    position: absolute;
+  }
 
   .material-symbols-outlined {
     font-variation-settings:
@@ -87,6 +91,18 @@
     position: relative;
     left: 38%;
     border-color: black !important;
+    border-width: 2px !important;
+    border-radius: 0px !important;
+
+
+  }
+
+  #Signup {
+    position: relative;
+    left: 38%;
+    border-color: rgb(0, 0, 0) !important;
+    background-color: black;
+    color: white;
     border-width: 2px !important;
     border-radius: 0px !important;
 
