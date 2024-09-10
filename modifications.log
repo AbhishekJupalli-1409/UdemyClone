@@ -1,0 +1,86 @@
+commit b798f92061ab862adba529123efc0756594f1d6c
+Author: AbhishekJupalli-1409 <jupalliabhishek1409@gmail.com>
+Date:   Tue Sep 10 15:12:25 2024 +0530
+
+    Added course content
+
+commit 83c76e748f2f5831f60603d28ff664c042e75c67
+Author: AbhishekJupalli-1409 <jupalliabhishek1409@gmail.com>
+Date:   Tue Sep 10 11:30:11 2024 +0530
+
+    ugly page
+
+commit 0a9b5b157ced05ed74194530c31b1ced6d4e228e
+Author: AbhishekJupalli-1409 <jupalliabhishek1409@gmail.com>
+Date:   Mon Sep 9 23:10:14 2024 +0530
+
+    added course bar
+
+commit 9f0b4fe32e0309b9924cc432f344b9e462f0efbd
+Merge: 308dbe6 32e0809
+Author: AbhishekJupalli-1409 <jupalliabhishek1409@gmail.com>
+Date:   Mon Sep 9 22:44:43 2024 +0530
+
+    Merge pull request #1 from AbhishekJupalli-1409/cart-add
+    
+    added more buttons
+
+commit 32e0809f3cbb831d3f55bc41b9614f6cd9c0e705
+Author: AbhishekJupalli-1409 <jupalliabhishek1409@gmail.com>
+Date:   Mon Sep 9 22:41:40 2024 +0530
+
+    added more buttons
+
+commit 308dbe65de687c307227ace0f799cc4880f64847
+Author: AbhishekJupalli-1409 <jupalliabhishek1409@gmail.com>
+Date:   Mon Sep 9 21:51:20 2024 +0530
+
+    grey search
+
+commit 04be709eb3a50e8236efb1efc6f0df804d87e848
+Author: AbhishekJupalli-1409 <jupalliabhishek1409@gmail.com>
+Date:   Mon Sep 9 21:44:18 2024 +0530
+
+    added search box
+
+commit 49bc542bf26a5284c6449716f1b93690efe0ecc7
+Author: AbhishekJupalli-1409 <jupalliabhishek1409@gmail.com>
+Date:   Mon Sep 9 19:23:22 2024 +0530
+
+    added files
+
+commit b1d1790a18cf657b97fc1ba903c6b864927847de
+Author: AbhishekJupalli-1409 <jupalliabhishek1409@gmail.com>
+Date:   Mon Sep 9 19:17:31 2024 +0530
+
+    Delete style.css
+
+commit c4410844d91dba27b50538eb426eb5d855bfa5ba
+Author: AbhishekJupalli-1409 <jupalliabhishek1409@gmail.com>
+Date:   Mon Sep 9 19:17:17 2024 +0530
+
+    Delete script.js
+
+commit 425ad0e90e89224873851789c2d533fa46cf31fb
+Author: AbhishekJupalli-1409 <jupalliabhishek1409@gmail.com>
+Date:   Mon Sep 9 19:16:56 2024 +0530
+
+    Delete index.html
+
+commit e75c416928b57772ac7a292c6ad3e3cba4490ae0
+Author: AbhishekJupalli-1409 <jupalliabhishek1409@gmail.com>
+Date:   Wed Sep 4 15:12:30 2024 +0530
+
+    linked all files n Bootstrap
+
+commit 9eb1f29f47732436e2e82f79f9af3c84eb8f6537
+Author: AbhishekJupalli-1409 <jupalliabhishek1409@gmail.com>
+Date:   Wed Sep 4 15:07:59 2024 +0530
+
+    Added all the files
+
+commit 71a999d814ed2fd37f25d353c638349e14be985b
+Author: AbhishekJupalli-1409 <jupalliabhishek1409@gmail.com>
+Date:   Wed Sep 4 14:01:20 2024 +0530
+
+    Initial commit
