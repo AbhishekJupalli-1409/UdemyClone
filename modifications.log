@@ -1,8 +1,76 @@
-commit b798f92061ab862adba529123efc0756594f1d6c
+commit 78cb34ab8a4fc012a5c28a8637797e4df24490af
+Author: AbhishekJupalli-1409 <jupalliabhishek1409@gmail.com>
+Date:   Wed Sep 11 22:11:56 2024 +0530
+
+    added lorem text
+
+commit 0408aae417a11280b65572aa07721166d6c3a89d
+Author: AbhishekJupalli-1409 <jupalliabhishek1409@gmail.com>
+Date:   Tue Sep 10 22:26:36 2024 +0530
+
+    compressed image
+
+commit 271fa3d36e0c570e9fab9f3b150495cd26eda725
+Author: AbhishekJupalli-1409 <jupalliabhishek1409@gmail.com>
+Date:   Tue Sep 10 21:03:25 2024 +0530
+
+    added card-title
+
+commit a65b5373eab50a56fae6c57e759df111c794b203
+Author: AbhishekJupalli-1409 <jupalliabhishek1409@gmail.com>
+Date:   Tue Sep 10 16:04:58 2024 +0530
+
+    added login button
+
+commit 56559cbd8005b2a0499f97a5c3a614e118a0c20c
+Merge: acae36f 294abcf
+Author: AbhishekJupalli-1409 <jupalliabhishek1409@gmail.com>
+Date:   Tue Sep 10 15:42:01 2024 +0530
+
+    Merge remote-tracking branch 'origin/master'
+
+commit acae36fdb6b3e02c1978c927c61d5ee7ce2a0f76
+Author: AbhishekJupalli-1409 <jupalliabhishek1409@gmail.com>
+Date:   Tue Sep 10 15:40:47 2024 +0530
+
+    added reviews link
+
+commit 294abcf431b18a1fbb77a4778d2e2bb899f28667
+Merge: 38efce4 a165f87
+Author: AbhishekJupalli-1409 <jupalliabhishek1409@gmail.com>
+Date:   Tue Sep 10 15:35:56 2024 +0530
+
+    Merge pull request #3 from AbhishekJupalli-1409/revert-2-content
+    
+    Revert "Added the content of course"
+
+commit a165f873d7948fb2402082b5c905edba86997378
+Author: AbhishekJupalli-1409 <jupalliabhishek1409@gmail.com>
+Date:   Tue Sep 10 15:35:31 2024 +0530
+
+    Revert "ugly page"
+    
+    This reverts commit 1641fab45603f62b8eb05c2cc1937851742e72ea.
+
+commit fc2a3b674665f6a2d9e12a90d14c9f585a96d6a4
+Author: AbhishekJupalli-1409 <jupalliabhishek1409@gmail.com>
+Date:   Tue Sep 10 15:35:31 2024 +0530
+
+    Revert "Added course content"
+    
+    This reverts commit 38efce4cd6b00a423ed6ef2bbd4512806f44fe34.
+
+commit 38efce4cd6b00a423ed6ef2bbd4512806f44fe34
 Author: AbhishekJupalli-1409 <jupalliabhishek1409@gmail.com>
 Date:   Tue Sep 10 15:12:25 2024 +0530
 
     Added course content
+
+commit 1641fab45603f62b8eb05c2cc1937851742e72ea
+Author: AbhishekJupalli-1409 <jupalliabhishek1409@gmail.com>
+Date:   Tue Sep 10 11:30:11 2024 +0530
+
+    ugly page
 
 commit 83c76e748f2f5831f60603d28ff664c042e75c67
 Author: AbhishekJupalli-1409 <jupalliabhishek1409@gmail.com>
