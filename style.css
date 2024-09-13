@@ -108,3 +108,8 @@
 
 
   }
+
+
+  #cardElement{
+    transition: zIndex 1s;
+  }
